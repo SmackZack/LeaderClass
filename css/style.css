@@ -3,3 +3,7 @@ body {
   overflow-x: hidden;
 }
 
+h4 {
+  margin-bottom: 0px;
+  color: inherit;
+}
