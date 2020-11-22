@@ -1,9 +1,17 @@
 body {
   width: 100vw !important;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 h4 {
   margin-bottom: 0px;
   color: inherit;
 }
+.go-top {
+  position: fixed;
+  bottom: 10%;
+  right: 5%;
+}
+
+
